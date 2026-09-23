@@ -4,7 +4,7 @@
 
 [Chat](https://www.chatgpt.com)
 
-[AniZone](https://www.AniZone.to)
+[AniZone](https://AniZone.to)
 
 [Cool Math Games](https://www.coolmathgames.com)
 
