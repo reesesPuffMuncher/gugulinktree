@@ -1,11 +1,11 @@
 # gugulinktree
 
-[Google](https://google.com)
+[Google](https://www.google.com)
 
-[Chat](chatgpt.com)
+[Chat](https://www.chatgpt.com)
 
-[AniZone](AniZone.to)
+[AniZone](https://www.AniZone.to)
 
-[Cool Math Games](coolmathgames.com)
+[Cool Math Games](https://www.coolmathgames.com)
 
 ### Email the owner for link addition requests
