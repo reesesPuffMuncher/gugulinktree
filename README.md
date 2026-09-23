@@ -1,6 +1,6 @@
 # gugulinktree
 
-[Google](google.com)
+[Google](https://google.com)
 
 [Chat](chatgpt.com)
 
