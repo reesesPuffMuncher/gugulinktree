@@ -8,4 +8,6 @@
 
 [Cool Math Games](https://www.coolmathgames.com)
 
+[GeForce Now](https://play.geforcenow.com)
+
 ### Email the owner for link addition requests
